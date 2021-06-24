@@ -19,7 +19,7 @@
 <h3>📞 Contact </h3>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JairPrada)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jair-andres-prada-sierra-462aa11ab/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JairPrada/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jairprada9@gmail.com)
 <!--
 **JairPrada/JairPrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
