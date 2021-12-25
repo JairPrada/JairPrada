@@ -6,7 +6,6 @@
 - 🔭 &nbsp; I’m currently learning ionic and unity.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying currently in ninth semester of systems engineering and computing.
-- 💼 &nbsp; Fullstack web developer.
 - ✍️ &nbsp; Playing video games and playing sports are my hobbies.
 
 <h3>🛠 Tech Stack</h3>
