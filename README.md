@@ -1,25 +1,23 @@
-<h1 align="center">👋 ¡Hola! Soy Jair Prada</h1>
-
+<h1 align="center">👋¡Hola! Soy <strong>Jair Prada</strong></h1>
 <p align="center">
-  <a href="https://github.com/JairPrada">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00bcd4&center=true&vCenter=true&lines=👨‍💻+Frontend+Developer;🚀+Explorador+de+IA;🎮+Amante+del+código+limpio+y+escalable" alt="Typing SVG" />
-  </a>
-
-  <img align="right" alt="GIF" src="https://github.com/JairPrada/JairPrada/blob/main/Dev.gif" width="500"/>
+  <img src="https://github.com/JairPrada/JairPrada/blob/main/Dev.gif" width="200" alt="Developer GIF" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00bcd4&center=true&vCenter=true&lines=👨‍💻+Frontend+Developer;🚀+Explorador+de+IA;💻+Amante+del+código+limpio" alt="Typing SVG" />
 </p>
 
 ---
 
-🎓 Soy **Ingeniero de Sistemas** graduado de la Universidad Católica de Colombia.  
-🎓 Actualmente curso una **Maestría en Inteligencia Artificial**.  
-💻 Amante del desarrollo **Frontend**, explorador entusiasta del **Backend**.  
-🚀 Siempre buscando aprender, crear y compartir con el mundo tech.
+🎓 **Ingeniero de Sistemas** — Universidad Católica de Colombia  
+🎓 Estudiante de **Maestría en Inteligencia Artificial**  
+💻 Especializado en desarrollo **Frontend**, con pasión por el **Backend**  
+🚀 Siempre creando, aprendiendo y compartiendo tecnología
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-### 🚀 Frontend
+### 🎨 Frontend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
@@ -51,14 +49,16 @@
 
 ---
 
-## 🚧 Proyectos destacados
+## 🚀 Proyectos destacados
 
-- 🔵 [**Azure-complement-extension**](https://chromewebstore.google.com/detail/azure-library-complement/bikpcbjblainpcifbnoopddhllnlhgao?pli=1)  
-  Extensión de Google Chrome para complementar funcionalidades de Azure.  
-- 🌀 [**The Minotaur's Maze**](https://github.com/JairPrada/the-minotaurs-maze)  
-  Videojuego de laberintos aleatorios hecho en Unity. Movimiento y seguimiento dinámico del personaje.
-- 🌎 [**Radar Col**](https://www.radarcol.com)  
-  Sitio ppara consultar estadisticas publicas de colombia
+### 🔵 [**Azure-complement-extension**](https://chromewebstore.google.com/detail/azure-library-complement/bikpcbjblainpcifbnoopddhllnlhgao?pli=1)  
+Complemento para Chrome que mejora la experiencia con Azure.
+
+### 🌀 [**The Minotaur's Maze**](https://github.com/JairPrada/the-minotaurs-maze)  
+Videojuego de laberintos aleatorios hecho en Unity, con IA de movimiento y seguimiento dinámico del personaje.
+
+### 🌎 [**Radar Col**](https://www.radarcol.com)  
+Plataforma web para consultar estadísticas públicas de Colombia.
 
 ---
 
@@ -71,11 +71,12 @@
 
 ---
 
-## 🚀 Intereses
-- Diseño de sistemas UI modernos y escalables
-- Testing automatizado con Jest y RTL
-- Inteligencia Artificial (PLN, visión artificial, razonamiento)
-- Arquitectura limpia y herramientas para desarrollo eficiente
+## 💡 Intereses
+
+- 🎨 Diseño de interfaces modernas y escalables  
+- 🧪 Testing automatizado con Jest y RTL  
+- 🤖 Inteligencia Artificial: PLN, visión computacional y razonamiento  
+- 🧱 Arquitectura limpia y herramientas para desarrollo eficiente  
 
 ---
 
