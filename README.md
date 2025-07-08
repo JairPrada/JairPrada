@@ -1,7 +1,5 @@
 <h1 align="center">👋¡Hola! Soy <strong>Jair Prada</strong></h1>
-<p align="center">
-  <img src="https://github.com/JairPrada/JairPrada/blob/main/Dev.gif" width="200" alt="Developer GIF" />
-</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00bcd4&center=true&vCenter=true&lines=👨‍💻+Frontend+Developer;🚀+Explorador+de+IA;💻+Amante+del+código+limpio" alt="Typing SVG" />
 </p>
