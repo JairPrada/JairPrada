@@ -1,90 +1,41 @@
-<h1 align="center">👋¡Hola! Soy <strong>Jair Prada</strong></h1>
+# Jair Prada
+**Ingeniero de Sistemas | Desarrollador de Software | Estudiante de Maestría en IA**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00bcd4&center=true&vCenter=true&lines=👨‍💻+Frontend+Developer;🚀+Explorador+de+IA;💻+Amante+del+código+limpio" alt="Typing SVG" />
-</p>
+<img align="right" src="https://raw.githubusercontent.com/JairPrada/questionary-app/main/DevDev.svg" width="400" alt="Dev Animation" />
 
----
+Soy desarrollador de software impulsado por la curiosidad técnica. Me apasiona entender cómo funciona la tecnología que usamos a diario, desde la arquitectura de un videojuego hasta la implementación de inteligencia artificial. Para mí, el desarrollo se basa en la satisfacción de construir las cosas desde cero —esa misma emoción de programar un login por primera vez y darte cuenta de que puedes crear lo que antes solo consumías. Mi objetivo es aprender continuamente y aplicar ese conocimiento para desarrollar herramientas prácticas que realmente aporten valor.
 
-🎓 **Ingeniero de Sistemas** — Universidad Católica de Colombia  
-🎓 Estudiante de **Maestría en Inteligencia Artificial**  
-💻 Especializado en desarrollo **Frontend**, con pasión por el **Backend**  
-🚀 Siempre creando, aprendiendo y compartiendo tecnología
+### Tecnologías y Herramientas
 
----
+**Frontend**  
+![React](https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-333333?style=flat-square&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat-square&logo=tailwind-css&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-333333?style=flat-square&logo=jest&logoColor=white)
 
-## 🛠️ Tecnologías y herramientas
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-333333?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-333333?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat-square&logo=fastapi&logoColor=white)
 
-### 🎨 Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" />
-</p>
+**DevOps & Otros**  
+![Unity](https://img.shields.io/badge/Unity-333333?style=flat-square&logo=unity&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat-square&logo=firebase&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-333333?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-333333?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=white)
 
-### 🔧 Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
-</p>
+### Proyectos Destacados
 
-### 🧰 Otros & DevOps
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-</p>
-
----
-
-## 🚀 Proyectos destacados
-
-### 🔵 [**Azure-complement-extension**](https://chromewebstore.google.com/detail/azure-library-complement/bikpcbjblainpcifbnoopddhllnlhgao?pli=1)  
-Complemento para Chrome que mejora la experiencia con Azure.
-
-### 🌀 [**The Minotaur's Maze**](https://github.com/JairPrada/the-minotaurs-maze)  
-Videojuego de laberintos aleatorios hecho en Unity, con IA de movimiento y seguimiento dinámico del personaje.
-
-### 🌎 [**Radar Col**](https://www.radarcol.com)  
-Plataforma web para consultar estadísticas públicas de Colombia.
-
----
-
-## 📈 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JairPrada&show_icons=true&theme=tokyonight&hide_title=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairPrada&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 💡 Intereses
-
-- 🎨 Diseño de interfaces modernas y escalables  
-- 🧪 Testing automatizado con Jest y RTL  
-- 🤖 Inteligencia Artificial: PLN, visión computacional y razonamiento  
-- 🧱 Arquitectura limpia y herramientas para desarrollo eficiente  
-
----
-
-## 📬 ¿Conectamos?
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jairprada/)
-- 📧 jairprada9@gmail.com
-
----
-
-<p align="center">
-✨ ¡Gracias por visitar mi perfil! ¡Nos vemos entre líneas de código! ✨
-</p>
+*   **[Azure Complement Extension](https://chromewebstore.google.com/detail/azure-library-complement/bikpcbjblainpcifbnoopddhllnlhgao)**
+    Complemento para Chrome que mejora la experiencia de usuario con la consola de Azure.
+*   **[The Minotaur's Maze](https://github.com/JairPrada/the-minotaurs-maze)**
+    Videojuego de laberintos aleatorios en Unity, con IA de movimiento y seguimiento dinámico.
+*   **[Radar Col](https://www.radarcol.com)**
+    Plataforma web para consultar y visualizar estadísticas públicas de Colombia.
