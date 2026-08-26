@@ -3,7 +3,9 @@
 
 <img align="right" src="https://raw.githubusercontent.com/JairPrada/questionary-app/main/DevDev.svg" width="400" alt="Dev Animation" />
 
-Soy desarrollador de software impulsado por la curiosidad técnica. Me apasiona entender cómo funciona la tecnología que usamos a diario, desde la arquitectura de un videojuego hasta la implementación de inteligencia artificial. Para mí, el desarrollo se basa en la satisfacción de construir las cosas desde cero —esa misma emoción de programar un login por primera vez y darte cuenta de que puedes crear lo que antes solo consumías. Mi objetivo es aprender continuamente y aplicar ese conocimiento para desarrollar herramientas prácticas que realmente aporten valor.
+Me gusta la tecnología, pero sobre todo me gusta crear cosas con ella. Siempre me ha causado curiosidad saber cómo funcionan las cosas que usamos todos los días y, en algún momento, pasé de preguntarme “¿cómo harán esto?” a querer aprender a construirlo yo mismo.
+
+Creo que esa es una de las cosas que más disfruto de programar: empezar con algo que desde el lado del usuario parece inalcanzable y terminar viendo que realmente funciona, e incluso que otras personas pueden usarlo. Me gusta aprender, experimentar y construir cosas que me den esa sensación. También disfruto mucho hacer videojuegos y explorar nuevas ideas alrededor de la tecnología.
 
 ### Tecnologías y Herramientas
 
