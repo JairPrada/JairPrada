@@ -15,6 +15,7 @@ Si quieres conocer un poco más sobre mí y ver otros proyectos en los que he tr
 ### Tecnologías y Herramientas
 
 **Frontend**
+
 ![React](https://img.shields.io/badge/React-333333?style=flat-square\&logo=react\&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat-square\&logo=nextdotjs\&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-333333?style=flat-square\&logo=redux\&logoColor=white)
@@ -24,13 +25,15 @@ Si quieres conocer un poco más sobre mí y ver otros proyectos en los que he tr
 ![Jest](https://img.shields.io/badge/Jest-333333?style=flat-square\&logo=jest\&logoColor=white)
 
 **Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-333333?style=flat-square\&logo=express\&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-333333?style=flat-square\&logo=nestjs\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-333333?style=flat-square\&logo=python\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat-square\&logo=fastapi\&logoColor=white)
 
-**DevOps & Otros**
+**Otros**
+
 ![Unity](https://img.shields.io/badge/Unity-333333?style=flat-square\&logo=unity\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat-square\&logo=firebase\&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-333333?style=flat-square\&logo=microsoft-azure\&logoColor=white)
