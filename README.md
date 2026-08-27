@@ -40,14 +40,3 @@ Si quieres conocer un poco más sobre mí y ver otros proyectos en los que he tr
 ![AWS](https://img.shields.io/badge/AWS-333333?style=flat-square\&logo=amazon-aws\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat-square\&logo=git\&logoColor=white)
-
-### Proyectos Destacados
-
-* **[Azure Complement Extension](https://chromewebstore.google.com/detail/azure-library-complement/bikpcbjblainpcifbnoopddhllnlhgao)**
-  Empezó como una pequeña idea para mejorar algunas cosas que me resultaban incómodas al trabajar con la consola de Azure y terminó convirtiéndose en una extensión de Chrome.
-
-* **[The Minotaur's Maze](https://github.com/JairPrada/the-minotaurs-maze)**
-  Siempre me han gustado los videojuegos, así que quise experimentar con lo que implica construir uno desde cero. Un laberinto generado proceduralmente en Unity, con IA para el movimiento y seguimiento.
-
-* **[Radar Col](https://www.radarcol.com)**
-  Un proyecto pensado para hacer más sencilla la exploración y visualización de estadísticas públicas de Colombia.
