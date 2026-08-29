@@ -10,7 +10,7 @@ Siempre me ha dado curiosidad saber cómo funcionan las aplicaciones, herramient
 
 Creo que esa es una de las cosas que más disfruto de programar: tomar una idea que desde el lado del usuario parece complicada y terminar viendo que realmente funciona. Me gusta experimentar con nuevas tecnologías, aprender mientras construyo y, de vez en cuando, hacer videojuegos simplemente porque también es divertido descubrir cómo se hacen.
 
-Si quieres conocer un poco más sobre mí y ver otros proyectos en los que he trabajado, puedes visitar mi **[portafolio](https://jair-prada-portafolio.vercel.app/)**.
+Si quieres conocer un poco más sobre mí y ver otros proyectos en los que he trabajado, puedes visitar mi **[portafolio](https://jairprada.com/)**.
 
 ### Tecnologías y Herramientas
 
